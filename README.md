@@ -48,3 +48,7 @@ To run this project:
 ## **Contributing**
 
 Feel free to fork this repository, submit issues, and send pull requests. Contributions are always welcome!
+
+<p align="center">
+    Made with ❤️ by <a href="https://github.com/Namit30">Namit Mehrotra</a>
+</p>
